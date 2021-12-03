@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,QAAQ,AAAC,CACP,OAAO,CAAE,SAAS,CAClB,aAAa,CAAE,GAAG,CAOnB,AATD,AAGE,QAHM,CAGN,MAAM,AAAC,CACL,gBAAgB,CAAE,KAAK,CACvB,KAAK,CAAE,KAAK,CACZ,aAAa,CAAE,GAAG,CAClB,OAAO,CAAE,QAAQ,CAClB,ACRH,AAAA,KAAK,AAAC,CACJ,MAAM,CAAE,MAAM,CACf,AFCD,AAAA,IAAI,AAAC,CACH,gBAAgB,CAAE,IAAI,CACvB,AAED,AAAA,aAAa,AAAC,CACZ,OAAO,CAAE,IAAI,CACd",
+    "sources": [
+        "../scss/app.scss",
+        "../scss/components/_form.scss",
+        "../scss/components/_audioPreview.scss"
+    ],
+    "names": [],
+    "file": "app.min.css"
+}

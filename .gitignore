@@ -1,0 +1,5 @@
+vendor/
+secret.php
+sendMail.php
+composer.json
+composer.lock
